@@ -3,15 +3,18 @@
 
 [LittleSLAM](https://github.com/furo-org/LittleSLAM.git) ROS2 wrapper.
 # Install
+First, create a ROS 2 workspace and clone the repository with submodules:
 ```
+mkdir -p ~/ros2_ws/src
 cd ~/ros2_ws/src
-git clone --recursive https://github.com/rsasaki0109/littleslam_ros2
-cd ~/ros2_ws/
-colcon build  
+git clone --recursive https://github.com/gopisainath1718/homography.git
+colcon build --symlink-install
 ``` 
 
 # Run  
+Before running, always be sure to source the workspace:
 ```
+source ~/ros2_ws/install/setup.bash
 ros2 run littleslam_ros2 littleslam_ros2  
 ```
 # IO  
@@ -28,10 +31,11 @@ pub
 data:[ros.org Introduction to Working With Laser Scanner Data](http://wiki.ros.org/laser_pipeline/Tutorials/IntroductionToWorkingWithLaserScannerData) (using [rosbags](https://pypi.org/project/rosbags/))
 
 ```
+source ~/ros2_ws/install/setup.bash
 ros2 run littleslam_ros2 littleslam_ros2 /scan:=/base_scan
 ros2 bag play Mapping1/
 rviz2 -d config/demo.rviz
 ```
 
-![demo](./littleslam.png)  
+![demo](./image.png)  
 
