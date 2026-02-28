@@ -1,7 +1,4 @@
-# littleslam_ros2
-![dashing](https://github.com/rsasaki0109/littleslam_ros2/workflows/CI/badge.svg)
-
-[LittleSLAM](https://github.com/furo-org/LittleSLAM.git) ROS2 wrapper.
+# littleSlam_homography
 
 ## About This Repository (and Why Homography is Needed)
 
