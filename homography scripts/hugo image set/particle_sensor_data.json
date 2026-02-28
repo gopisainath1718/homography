@@ -1,0 +1,1493 @@
+{
+    "grid_500_520_500_520": {
+        "sensor_timestamp": "2025-03-19 00:43:04",
+        "data": {
+            "version": "ML003.320",
+            "values": {
+                "unknown": {
+                    "name": "Unknown particle",
+                    "subtype": "n-a",
+                    "code_name": "unknown",
+                    "subclasses": [],
+                    "value": 50
+                },
+                "mold": {
+                    "name": "Common Mold",
+                    "subtype": "n-a",
+                    "code_name": "mold",
+                    "subclasses": [
+                        {
+                            "name": "Unknown mold",
+                            "subtype": "n-a",
+                            "code_name": "mold-unknown",
+                            "value": 8
+                        },
+                        {
+                            "name": "Aspergillus Niger",
+                            "subtype": "n-a",
+                            "code_name": "mold-Aspergillus-Niger",
+                            "value": 18
+                        },
+                        {
+                            "name": "Aspergillus Fumigatus",
+                            "subtype": "n-a",
+                            "code_name": "mold-Aspergillus-Fumigatus",
+                            "value": 0
+                        },
+                        {
+                            "name": "Alternaria Alternata",
+                            "subtype": "n-a",
+                            "code_name": "mold-Alternaria",
+                            "value": 5
+                        },
+                        {
+                            "name": "Penicillium Notatum",
+                            "subtype": "n-a",
+                            "code_name": "mold-Penicillium",
+                            "value": 7
+                        },
+                        {
+                            "name": "Cladosporium Herbarum",
+                            "subtype": "n-a",
+                            "code_name": "mold-Cladosporium",
+                            "value": 0
+                        }
+                    ],
+                    "value": 38
+                },
+                "mites": {
+                    "name": "Dust Mites",
+                    "subtype": "n-a",
+                    "code_name": "mites",
+                    "subclasses": [],
+                    "value": 2
+                },
+                "other": {
+                    "name": "Other",
+                    "subtype": "n-a",
+                    "code_name": "other",
+                    "subclasses": [],
+                    "value": 168
+                },
+                "dander": {
+                    "name": "Animal Dander",
+                    "subtype": "n-a",
+                    "code_name": "dander",
+                    "subclasses": [],
+                    "value": 1
+                },
+                "pollen": {
+                    "name": "Common Pollen",
+                    "subtype": "n-a",
+                    "code_name": "pollen",
+                    "subclasses": [
+                        {
+                            "name": "Unknown pollen",
+                            "subtype": "n-a",
+                            "code_name": "pollen-unknown",
+                            "value": 0
+                        },
+                        {
+                            "name": "Japanese Rice Pollen",
+                            "subtype": "n-a",
+                            "code_name": "pollen-Grass-Rice-JP",
+                            "value": 12
+                        },
+                        {
+                            "name": "Rye Pollen",
+                            "subtype": "n-a",
+                            "code_name": "pollen-Grass-Rye",
+                            "value": 0
+                        },
+                        {
+                            "name": "White Ash Pollen",
+                            "subtype": "n-a",
+                            "code_name": "pollen-Tree-AshWhite-AM",
+                            "value": 0
+                        },
+                        {
+                            "name": "Aspen Pollen",
+                            "subtype": "n-a",
+                            "code_name": "pollen-Tree-Aspen",
+                            "value": 0
+                        },
+                        {
+                            "name": "Japanese Birch Pollen",
+                            "subtype": "n-a",
+                            "code_name": "pollen-Tree-Birch-JP",
+                            "value": 0
+                        },
+                        {
+                            "name": "White Birch Pollen",
+                            "subtype": "n-a",
+                            "code_name": "pollen-Tree-BirchWhite-EU",
+                            "value": 0
+                        },
+                        {
+                            "name": "Japanese Cedar Pollen",
+                            "subtype": "n-a",
+                            "code_name": "pollen-Tree-Cedar-JP",
+                            "value": 0
+                        },
+                        {
+                            "name": "Italian Cypress Pollen",
+                            "subtype": "n-a",
+                            "code_name": "pollen-Tree-Cypress-IT",
+                            "value": 0
+                        },
+                        {
+                            "name": "Japanese Cypress Pollen",
+                            "subtype": "n-a",
+                            "code_name": "pollen-Tree-Cypress-JP",
+                            "value": 0
+                        },
+                        {
+                            "name": "English Elm Pollen",
+                            "subtype": "n-a",
+                            "code_name": "pollen-Tree-Elm-EN",
+                            "value": 0
+                        },
+                        {
+                            "name": "Japanese Hop Pollen",
+                            "subtype": "n-a",
+                            "code_name": "pollen-Weed-Hop-JP",
+                            "value": 0
+                        },
+                        {
+                            "name": "Mugwort Pollen",
+                            "subtype": "n-a",
+                            "code_name": "pollen-Weed-Mugwort",
+                            "value": 0
+                        },
+                        {
+                            "name": "Japanese Mugwort Pollen",
+                            "subtype": "n-a",
+                            "code_name": "pollen-Weed-Mugwort-JP",
+                            "value": 138
+                        },
+                        {
+                            "name": "Ragweed Pollen",
+                            "subtype": "n-a",
+                            "code_name": "pollen-Weed-Ragweed",
+                            "value": 0
+                        }
+                    ],
+                    "value": 150
+                }
+            },
+            "levels": {
+                "pollen": {
+                    "level": 8,
+                    "description": "High"
+                },
+                "mites": {
+                    "level": 1,
+                    "description": "Low"
+                },
+                "dander": {
+                    "level": 1,
+                    "description": "Low"
+                },
+                "mold": {
+                    "level": 3,
+                    "description": "Low"
+                },
+                "allergen": {
+                    "level": 8,
+                    "description": "High"
+                }
+            },
+            "sizes": {
+                "0_5": 19,
+                "5_10": 29,
+                "10_25": 196,
+                "25_50": 113,
+                "50_100": 46,
+                "100_200": 6,
+                "200_400": 0,
+                "400_500": 0,
+                "500_inf": 0
+            },
+            "optical_interference": 0.02143003,
+            "date_time": "2025-03-19 00:43:04"
+        }
+    },
+    "grid_1160_1180_620_640": {
+        "sensor_timestamp": "2025-03-19 00:48:06",
+        "data": {
+            "version": "ML003.320",
+            "values": {
+                "unknown": {
+                    "name": "Unknown particle",
+                    "subtype": "n-a",
+                    "code_name": "unknown",
+                    "subclasses": [],
+                    "value": 48
+                },
+                "mold": {
+                    "name": "Common Mold",
+                    "subtype": "n-a",
+                    "code_name": "mold",
+                    "subclasses": [
+                        {
+                            "name": "Unknown mold",
+                            "subtype": "n-a",
+                            "code_name": "mold-unknown",
+                            "value": 11
+                        },
+                        {
+                            "name": "Aspergillus Niger",
+                            "subtype": "n-a",
+                            "code_name": "mold-Aspergillus-Niger",
+                            "value": 18
+                        },
+                        {
+                            "name": "Aspergillus Fumigatus",
+                            "subtype": "n-a",
+                            "code_name": "mold-Aspergillus-Fumigatus",
+                            "value": 0
+                        },
+                        {
+                            "name": "Alternaria Alternata",
+                            "subtype": "n-a",
+                            "code_name": "mold-Alternaria",
+                            "value": 4
+                        },
+                        {
+                            "name": "Penicillium Notatum",
+                            "subtype": "n-a",
+                            "code_name": "mold-Penicillium",
+                            "value": 9
+                        },
+                        {
+                            "name": "Cladosporium Herbarum",
+                            "subtype": "n-a",
+                            "code_name": "mold-Cladosporium",
+                            "value": 1
+                        }
+                    ],
+                    "value": 43
+                },
+                "mites": {
+                    "name": "Dust Mites",
+                    "subtype": "n-a",
+                    "code_name": "mites",
+                    "subclasses": [],
+                    "value": 14
+                },
+                "other": {
+                    "name": "Other",
+                    "subtype": "n-a",
+                    "code_name": "other",
+                    "subclasses": [],
+                    "value": 151
+                },
+                "dander": {
+                    "name": "Animal Dander",
+                    "subtype": "n-a",
+                    "code_name": "dander",
+                    "subclasses": [],
+                    "value": 1
+                },
+                "pollen": {
+                    "name": "Common Pollen",
+                    "subtype": "n-a",
+                    "code_name": "pollen",
+                    "subclasses": [
+                        {
+                            "name": "Unknown pollen",
+                            "subtype": "n-a",
+                            "code_name": "pollen-unknown",
+                            "value": 0
+                        },
+                        {
+                            "name": "Japanese Rice Pollen",
+                            "subtype": "n-a",
+                            "code_name": "pollen-Grass-Rice-JP",
+                            "value": 9
+                        },
+                        {
+                            "name": "Rye Pollen",
+                            "subtype": "n-a",
+                            "code_name": "pollen-Grass-Rye",
+                            "value": 0
+                        },
+                        {
+                            "name": "White Ash Pollen",
+                            "subtype": "n-a",
+                            "code_name": "pollen-Tree-AshWhite-AM",
+                            "value": 0
+                        },
+                        {
+                            "name": "Aspen Pollen",
+                            "subtype": "n-a",
+                            "code_name": "pollen-Tree-Aspen",
+                            "value": 0
+                        },
+                        {
+                            "name": "Japanese Birch Pollen",
+                            "subtype": "n-a",
+                            "code_name": "pollen-Tree-Birch-JP",
+                            "value": 0
+                        },
+                        {
+                            "name": "White Birch Pollen",
+                            "subtype": "n-a",
+                            "code_name": "pollen-Tree-BirchWhite-EU",
+                            "value": 0
+                        },
+                        {
+                            "name": "Japanese Cedar Pollen",
+                            "subtype": "n-a",
+                            "code_name": "pollen-Tree-Cedar-JP",
+                            "value": 0
+                        },
+                        {
+                            "name": "Italian Cypress Pollen",
+                            "subtype": "n-a",
+                            "code_name": "pollen-Tree-Cypress-IT",
+                            "value": 0
+                        },
+                        {
+                            "name": "Japanese Cypress Pollen",
+                            "subtype": "n-a",
+                            "code_name": "pollen-Tree-Cypress-JP",
+                            "value": 0
+                        },
+                        {
+                            "name": "English Elm Pollen",
+                            "subtype": "n-a",
+                            "code_name": "pollen-Tree-Elm-EN",
+                            "value": 0
+                        },
+                        {
+                            "name": "Japanese Hop Pollen",
+                            "subtype": "n-a",
+                            "code_name": "pollen-Weed-Hop-JP",
+                            "value": 0
+                        },
+                        {
+                            "name": "Mugwort Pollen",
+                            "subtype": "n-a",
+                            "code_name": "pollen-Weed-Mugwort",
+                            "value": 0
+                        },
+                        {
+                            "name": "Japanese Mugwort Pollen",
+                            "subtype": "n-a",
+                            "code_name": "pollen-Weed-Mugwort-JP",
+                            "value": 152
+                        },
+                        {
+                            "name": "Ragweed Pollen",
+                            "subtype": "n-a",
+                            "code_name": "pollen-Weed-Ragweed",
+                            "value": 0
+                        }
+                    ],
+                    "value": 161
+                }
+            },
+            "levels": {
+                "pollen": {
+                    "level": 8,
+                    "description": "High"
+                },
+                "mites": {
+                    "level": 1,
+                    "description": "Low"
+                },
+                "dander": {
+                    "level": 1,
+                    "description": "Low"
+                },
+                "mold": {
+                    "level": 3,
+                    "description": "Low"
+                },
+                "allergen": {
+                    "level": 8,
+                    "description": "High"
+                }
+            },
+            "sizes": {
+                "0_5": 19,
+                "5_10": 32,
+                "10_25": 202,
+                "25_50": 113,
+                "50_100": 46,
+                "100_200": 6,
+                "200_400": 0,
+                "400_500": 0,
+                "500_inf": 0
+            },
+            "optical_interference": 0.01938324,
+            "date_time": "2025-03-19 00:48:06"
+        }
+    },
+    "grid_400_420_540_560": {
+        "sensor_timestamp": "2025-03-19 00:53:05",
+        "data": {
+            "version": "ML003.320",
+            "values": {
+                "unknown": {
+                    "name": "Unknown particle",
+                    "subtype": "n-a",
+                    "code_name": "unknown",
+                    "subclasses": [],
+                    "value": 57
+                },
+                "mold": {
+                    "name": "Common Mold",
+                    "subtype": "n-a",
+                    "code_name": "mold",
+                    "subclasses": [
+                        {
+                            "name": "Unknown mold",
+                            "subtype": "n-a",
+                            "code_name": "mold-unknown",
+                            "value": 12
+                        },
+                        {
+                            "name": "Aspergillus Niger",
+                            "subtype": "n-a",
+                            "code_name": "mold-Aspergillus-Niger",
+                            "value": 17
+                        },
+                        {
+                            "name": "Aspergillus Fumigatus",
+                            "subtype": "n-a",
+                            "code_name": "mold-Aspergillus-Fumigatus",
+                            "value": 0
+                        },
+                        {
+                            "name": "Alternaria Alternata",
+                            "subtype": "n-a",
+                            "code_name": "mold-Alternaria",
+                            "value": 7
+                        },
+                        {
+                            "name": "Penicillium Notatum",
+                            "subtype": "n-a",
+                            "code_name": "mold-Penicillium",
+                            "value": 5
+                        },
+                        {
+                            "name": "Cladosporium Herbarum",
+                            "subtype": "n-a",
+                            "code_name": "mold-Cladosporium",
+                            "value": 0
+                        }
+                    ],
+                    "value": 41
+                },
+                "mites": {
+                    "name": "Dust Mites",
+                    "subtype": "n-a",
+                    "code_name": "mites",
+                    "subclasses": [],
+                    "value": 14
+                },
+                "other": {
+                    "name": "Other",
+                    "subtype": "n-a",
+                    "code_name": "other",
+                    "subclasses": [],
+                    "value": 147
+                },
+                "dander": {
+                    "name": "Animal Dander",
+                    "subtype": "n-a",
+                    "code_name": "dander",
+                    "subclasses": [],
+                    "value": 0
+                },
+                "pollen": {
+                    "name": "Common Pollen",
+                    "subtype": "n-a",
+                    "code_name": "pollen",
+                    "subclasses": [
+                        {
+                            "name": "Unknown pollen",
+                            "subtype": "n-a",
+                            "code_name": "pollen-unknown",
+                            "value": 0
+                        },
+                        {
+                            "name": "Japanese Rice Pollen",
+                            "subtype": "n-a",
+                            "code_name": "pollen-Grass-Rice-JP",
+                            "value": 9
+                        },
+                        {
+                            "name": "Rye Pollen",
+                            "subtype": "n-a",
+                            "code_name": "pollen-Grass-Rye",
+                            "value": 0
+                        },
+                        {
+                            "name": "White Ash Pollen",
+                            "subtype": "n-a",
+                            "code_name": "pollen-Tree-AshWhite-AM",
+                            "value": 0
+                        },
+                        {
+                            "name": "Aspen Pollen",
+                            "subtype": "n-a",
+                            "code_name": "pollen-Tree-Aspen",
+                            "value": 0
+                        },
+                        {
+                            "name": "Japanese Birch Pollen",
+                            "subtype": "n-a",
+                            "code_name": "pollen-Tree-Birch-JP",
+                            "value": 0
+                        },
+                        {
+                            "name": "White Birch Pollen",
+                            "subtype": "n-a",
+                            "code_name": "pollen-Tree-BirchWhite-EU",
+                            "value": 0
+                        },
+                        {
+                            "name": "Japanese Cedar Pollen",
+                            "subtype": "n-a",
+                            "code_name": "pollen-Tree-Cedar-JP",
+                            "value": 0
+                        },
+                        {
+                            "name": "Italian Cypress Pollen",
+                            "subtype": "n-a",
+                            "code_name": "pollen-Tree-Cypress-IT",
+                            "value": 0
+                        },
+                        {
+                            "name": "Japanese Cypress Pollen",
+                            "subtype": "n-a",
+                            "code_name": "pollen-Tree-Cypress-JP",
+                            "value": 0
+                        },
+                        {
+                            "name": "English Elm Pollen",
+                            "subtype": "n-a",
+                            "code_name": "pollen-Tree-Elm-EN",
+                            "value": 0
+                        },
+                        {
+                            "name": "Japanese Hop Pollen",
+                            "subtype": "n-a",
+                            "code_name": "pollen-Weed-Hop-JP",
+                            "value": 0
+                        },
+                        {
+                            "name": "Mugwort Pollen",
+                            "subtype": "n-a",
+                            "code_name": "pollen-Weed-Mugwort",
+                            "value": 0
+                        },
+                        {
+                            "name": "Japanese Mugwort Pollen",
+                            "subtype": "n-a",
+                            "code_name": "pollen-Weed-Mugwort-JP",
+                            "value": 147
+                        },
+                        {
+                            "name": "Ragweed Pollen",
+                            "subtype": "n-a",
+                            "code_name": "pollen-Weed-Ragweed",
+                            "value": 0
+                        }
+                    ],
+                    "value": 156
+                }
+            },
+            "levels": {
+                "pollen": {
+                    "level": 8,
+                    "description": "High"
+                },
+                "mites": {
+                    "level": 1,
+                    "description": "Low"
+                },
+                "dander": {
+                    "level": 1,
+                    "description": "Low"
+                },
+                "mold": {
+                    "level": 3,
+                    "description": "Low"
+                },
+                "allergen": {
+                    "level": 8,
+                    "description": "High"
+                }
+            },
+            "sizes": {
+                "0_5": 11,
+                "5_10": 36,
+                "10_25": 201,
+                "25_50": 118,
+                "50_100": 43,
+                "100_200": 6,
+                "200_400": 0,
+                "400_500": 0,
+                "500_inf": 0
+            },
+            "optical_interference": 0.01960559,
+            "date_time": "2025-03-19 00:53:05"
+        }
+    },
+    "grid_60_80_60_80": {
+        "sensor_timestamp": "2025-03-19 00:58:08",
+        "data": {
+            "version": "ML003.320",
+            "values": {
+                "unknown": {
+                    "name": "Unknown particle",
+                    "subtype": "n-a",
+                    "code_name": "unknown",
+                    "subclasses": [],
+                    "value": 58
+                },
+                "mold": {
+                    "name": "Common Mold",
+                    "subtype": "n-a",
+                    "code_name": "mold",
+                    "subclasses": [
+                        {
+                            "name": "Unknown mold",
+                            "subtype": "n-a",
+                            "code_name": "mold-unknown",
+                            "value": 11
+                        },
+                        {
+                            "name": "Aspergillus Niger",
+                            "subtype": "n-a",
+                            "code_name": "mold-Aspergillus-Niger",
+                            "value": 16
+                        },
+                        {
+                            "name": "Aspergillus Fumigatus",
+                            "subtype": "n-a",
+                            "code_name": "mold-Aspergillus-Fumigatus",
+                            "value": 0
+                        },
+                        {
+                            "name": "Alternaria Alternata",
+                            "subtype": "n-a",
+                            "code_name": "mold-Alternaria",
+                            "value": 4
+                        },
+                        {
+                            "name": "Penicillium Notatum",
+                            "subtype": "n-a",
+                            "code_name": "mold-Penicillium",
+                            "value": 6
+                        },
+                        {
+                            "name": "Cladosporium Herbarum",
+                            "subtype": "n-a",
+                            "code_name": "mold-Cladosporium",
+                            "value": 1
+                        }
+                    ],
+                    "value": 38
+                },
+                "mites": {
+                    "name": "Dust Mites",
+                    "subtype": "n-a",
+                    "code_name": "mites",
+                    "subclasses": [],
+                    "value": 8
+                },
+                "other": {
+                    "name": "Other",
+                    "subtype": "n-a",
+                    "code_name": "other",
+                    "subclasses": [],
+                    "value": 159
+                },
+                "dander": {
+                    "name": "Animal Dander",
+                    "subtype": "n-a",
+                    "code_name": "dander",
+                    "subclasses": [],
+                    "value": 0
+                },
+                "pollen": {
+                    "name": "Common Pollen",
+                    "subtype": "n-a",
+                    "code_name": "pollen",
+                    "subclasses": [
+                        {
+                            "name": "Unknown pollen",
+                            "subtype": "n-a",
+                            "code_name": "pollen-unknown",
+                            "value": 0
+                        },
+                        {
+                            "name": "Japanese Rice Pollen",
+                            "subtype": "n-a",
+                            "code_name": "pollen-Grass-Rice-JP",
+                            "value": 10
+                        },
+                        {
+                            "name": "Rye Pollen",
+                            "subtype": "n-a",
+                            "code_name": "pollen-Grass-Rye",
+                            "value": 0
+                        },
+                        {
+                            "name": "White Ash Pollen",
+                            "subtype": "n-a",
+                            "code_name": "pollen-Tree-AshWhite-AM",
+                            "value": 0
+                        },
+                        {
+                            "name": "Aspen Pollen",
+                            "subtype": "n-a",
+                            "code_name": "pollen-Tree-Aspen",
+                            "value": 0
+                        },
+                        {
+                            "name": "Japanese Birch Pollen",
+                            "subtype": "n-a",
+                            "code_name": "pollen-Tree-Birch-JP",
+                            "value": 0
+                        },
+                        {
+                            "name": "White Birch Pollen",
+                            "subtype": "n-a",
+                            "code_name": "pollen-Tree-BirchWhite-EU",
+                            "value": 0
+                        },
+                        {
+                            "name": "Japanese Cedar Pollen",
+                            "subtype": "n-a",
+                            "code_name": "pollen-Tree-Cedar-JP",
+                            "value": 0
+                        },
+                        {
+                            "name": "Italian Cypress Pollen",
+                            "subtype": "n-a",
+                            "code_name": "pollen-Tree-Cypress-IT",
+                            "value": 0
+                        },
+                        {
+                            "name": "Japanese Cypress Pollen",
+                            "subtype": "n-a",
+                            "code_name": "pollen-Tree-Cypress-JP",
+                            "value": 0
+                        },
+                        {
+                            "name": "English Elm Pollen",
+                            "subtype": "n-a",
+                            "code_name": "pollen-Tree-Elm-EN",
+                            "value": 0
+                        },
+                        {
+                            "name": "Japanese Hop Pollen",
+                            "subtype": "n-a",
+                            "code_name": "pollen-Weed-Hop-JP",
+                            "value": 0
+                        },
+                        {
+                            "name": "Mugwort Pollen",
+                            "subtype": "n-a",
+                            "code_name": "pollen-Weed-Mugwort",
+                            "value": 0
+                        },
+                        {
+                            "name": "Japanese Mugwort Pollen",
+                            "subtype": "n-a",
+                            "code_name": "pollen-Weed-Mugwort-JP",
+                            "value": 136
+                        },
+                        {
+                            "name": "Ragweed Pollen",
+                            "subtype": "n-a",
+                            "code_name": "pollen-Weed-Ragweed",
+                            "value": 0
+                        }
+                    ],
+                    "value": 146
+                }
+            },
+            "levels": {
+                "pollen": {
+                    "level": 8,
+                    "description": "High"
+                },
+                "mites": {
+                    "level": 1,
+                    "description": "Low"
+                },
+                "dander": {
+                    "level": 1,
+                    "description": "Low"
+                },
+                "mold": {
+                    "level": 3,
+                    "description": "Low"
+                },
+                "allergen": {
+                    "level": 8,
+                    "description": "High"
+                }
+            },
+            "sizes": {
+                "0_5": 17,
+                "5_10": 30,
+                "10_25": 199,
+                "25_50": 113,
+                "50_100": 44,
+                "100_200": 6,
+                "200_400": 0,
+                "400_500": 0,
+                "500_inf": 0
+            },
+            "optical_interference": 0.01966824,
+            "date_time": "2025-03-19 00:58:08"
+        }
+    },
+    "grid_260_280_380_400": {
+        "sensor_timestamp": "2025-03-19 01:03:11",
+        "data": {
+            "version": "ML003.320",
+            "values": {
+                "unknown": {
+                    "name": "Unknown particle",
+                    "subtype": "n-a",
+                    "code_name": "unknown",
+                    "subclasses": [],
+                    "value": 48
+                },
+                "mold": {
+                    "name": "Common Mold",
+                    "subtype": "n-a",
+                    "code_name": "mold",
+                    "subclasses": [
+                        {
+                            "name": "Unknown mold",
+                            "subtype": "n-a",
+                            "code_name": "mold-unknown",
+                            "value": 6
+                        },
+                        {
+                            "name": "Aspergillus Niger",
+                            "subtype": "n-a",
+                            "code_name": "mold-Aspergillus-Niger",
+                            "value": 23
+                        },
+                        {
+                            "name": "Aspergillus Fumigatus",
+                            "subtype": "n-a",
+                            "code_name": "mold-Aspergillus-Fumigatus",
+                            "value": 0
+                        },
+                        {
+                            "name": "Alternaria Alternata",
+                            "subtype": "n-a",
+                            "code_name": "mold-Alternaria",
+                            "value": 3
+                        },
+                        {
+                            "name": "Penicillium Notatum",
+                            "subtype": "n-a",
+                            "code_name": "mold-Penicillium",
+                            "value": 7
+                        },
+                        {
+                            "name": "Cladosporium Herbarum",
+                            "subtype": "n-a",
+                            "code_name": "mold-Cladosporium",
+                            "value": 1
+                        }
+                    ],
+                    "value": 40
+                },
+                "mites": {
+                    "name": "Dust Mites",
+                    "subtype": "n-a",
+                    "code_name": "mites",
+                    "subclasses": [],
+                    "value": 10
+                },
+                "other": {
+                    "name": "Other",
+                    "subtype": "n-a",
+                    "code_name": "other",
+                    "subclasses": [],
+                    "value": 164
+                },
+                "dander": {
+                    "name": "Animal Dander",
+                    "subtype": "n-a",
+                    "code_name": "dander",
+                    "subclasses": [],
+                    "value": 1
+                },
+                "pollen": {
+                    "name": "Common Pollen",
+                    "subtype": "n-a",
+                    "code_name": "pollen",
+                    "subclasses": [
+                        {
+                            "name": "Unknown pollen",
+                            "subtype": "n-a",
+                            "code_name": "pollen-unknown",
+                            "value": 0
+                        },
+                        {
+                            "name": "Japanese Rice Pollen",
+                            "subtype": "n-a",
+                            "code_name": "pollen-Grass-Rice-JP",
+                            "value": 7
+                        },
+                        {
+                            "name": "Rye Pollen",
+                            "subtype": "n-a",
+                            "code_name": "pollen-Grass-Rye",
+                            "value": 0
+                        },
+                        {
+                            "name": "White Ash Pollen",
+                            "subtype": "n-a",
+                            "code_name": "pollen-Tree-AshWhite-AM",
+                            "value": 0
+                        },
+                        {
+                            "name": "Aspen Pollen",
+                            "subtype": "n-a",
+                            "code_name": "pollen-Tree-Aspen",
+                            "value": 0
+                        },
+                        {
+                            "name": "Japanese Birch Pollen",
+                            "subtype": "n-a",
+                            "code_name": "pollen-Tree-Birch-JP",
+                            "value": 0
+                        },
+                        {
+                            "name": "White Birch Pollen",
+                            "subtype": "n-a",
+                            "code_name": "pollen-Tree-BirchWhite-EU",
+                            "value": 0
+                        },
+                        {
+                            "name": "Japanese Cedar Pollen",
+                            "subtype": "n-a",
+                            "code_name": "pollen-Tree-Cedar-JP",
+                            "value": 0
+                        },
+                        {
+                            "name": "Italian Cypress Pollen",
+                            "subtype": "n-a",
+                            "code_name": "pollen-Tree-Cypress-IT",
+                            "value": 0
+                        },
+                        {
+                            "name": "Japanese Cypress Pollen",
+                            "subtype": "n-a",
+                            "code_name": "pollen-Tree-Cypress-JP",
+                            "value": 0
+                        },
+                        {
+                            "name": "English Elm Pollen",
+                            "subtype": "n-a",
+                            "code_name": "pollen-Tree-Elm-EN",
+                            "value": 0
+                        },
+                        {
+                            "name": "Japanese Hop Pollen",
+                            "subtype": "n-a",
+                            "code_name": "pollen-Weed-Hop-JP",
+                            "value": 0
+                        },
+                        {
+                            "name": "Mugwort Pollen",
+                            "subtype": "n-a",
+                            "code_name": "pollen-Weed-Mugwort",
+                            "value": 0
+                        },
+                        {
+                            "name": "Japanese Mugwort Pollen",
+                            "subtype": "n-a",
+                            "code_name": "pollen-Weed-Mugwort-JP",
+                            "value": 141
+                        },
+                        {
+                            "name": "Ragweed Pollen",
+                            "subtype": "n-a",
+                            "code_name": "pollen-Weed-Ragweed",
+                            "value": 0
+                        }
+                    ],
+                    "value": 148
+                }
+            },
+            "levels": {
+                "pollen": {
+                    "level": 8,
+                    "description": "High"
+                },
+                "mites": {
+                    "level": 1,
+                    "description": "Low"
+                },
+                "dander": {
+                    "level": 1,
+                    "description": "Low"
+                },
+                "mold": {
+                    "level": 3,
+                    "description": "Low"
+                },
+                "allergen": {
+                    "level": 8,
+                    "description": "High"
+                }
+            },
+            "sizes": {
+                "0_5": 22,
+                "5_10": 29,
+                "10_25": 193,
+                "25_50": 113,
+                "50_100": 48,
+                "100_200": 6,
+                "200_400": 0,
+                "400_500": 0,
+                "500_inf": 0
+            },
+            "optical_interference": 0.01939691,
+            "date_time": "2025-03-19 01:03:11"
+        }
+    },
+    "grid_360_380_240_260": {
+        "sensor_timestamp": "2025-03-19 01:13:17",
+        "data": {
+            "version": "ML003.320",
+            "values": {
+                "unknown": {
+                    "name": "Unknown particle",
+                    "subtype": "n-a",
+                    "code_name": "unknown",
+                    "subclasses": [],
+                    "value": 63
+                },
+                "mold": {
+                    "name": "Common Mold",
+                    "subtype": "n-a",
+                    "code_name": "mold",
+                    "subclasses": [
+                        {
+                            "name": "Unknown mold",
+                            "subtype": "n-a",
+                            "code_name": "mold-unknown",
+                            "value": 7
+                        },
+                        {
+                            "name": "Aspergillus Niger",
+                            "subtype": "n-a",
+                            "code_name": "mold-Aspergillus-Niger",
+                            "value": 22
+                        },
+                        {
+                            "name": "Aspergillus Fumigatus",
+                            "subtype": "n-a",
+                            "code_name": "mold-Aspergillus-Fumigatus",
+                            "value": 0
+                        },
+                        {
+                            "name": "Alternaria Alternata",
+                            "subtype": "n-a",
+                            "code_name": "mold-Alternaria",
+                            "value": 2
+                        },
+                        {
+                            "name": "Penicillium Notatum",
+                            "subtype": "n-a",
+                            "code_name": "mold-Penicillium",
+                            "value": 3
+                        },
+                        {
+                            "name": "Cladosporium Herbarum",
+                            "subtype": "n-a",
+                            "code_name": "mold-Cladosporium",
+                            "value": 1
+                        }
+                    ],
+                    "value": 35
+                },
+                "mites": {
+                    "name": "Dust Mites",
+                    "subtype": "n-a",
+                    "code_name": "mites",
+                    "subclasses": [],
+                    "value": 5
+                },
+                "other": {
+                    "name": "Other",
+                    "subtype": "n-a",
+                    "code_name": "other",
+                    "subclasses": [],
+                    "value": 165
+                },
+                "dander": {
+                    "name": "Animal Dander",
+                    "subtype": "n-a",
+                    "code_name": "dander",
+                    "subclasses": [],
+                    "value": 0
+                },
+                "pollen": {
+                    "name": "Common Pollen",
+                    "subtype": "n-a",
+                    "code_name": "pollen",
+                    "subclasses": [
+                        {
+                            "name": "Unknown pollen",
+                            "subtype": "n-a",
+                            "code_name": "pollen-unknown",
+                            "value": 0
+                        },
+                        {
+                            "name": "Japanese Rice Pollen",
+                            "subtype": "n-a",
+                            "code_name": "pollen-Grass-Rice-JP",
+                            "value": 11
+                        },
+                        {
+                            "name": "Rye Pollen",
+                            "subtype": "n-a",
+                            "code_name": "pollen-Grass-Rye",
+                            "value": 0
+                        },
+                        {
+                            "name": "White Ash Pollen",
+                            "subtype": "n-a",
+                            "code_name": "pollen-Tree-AshWhite-AM",
+                            "value": 0
+                        },
+                        {
+                            "name": "Aspen Pollen",
+                            "subtype": "n-a",
+                            "code_name": "pollen-Tree-Aspen",
+                            "value": 0
+                        },
+                        {
+                            "name": "Japanese Birch Pollen",
+                            "subtype": "n-a",
+                            "code_name": "pollen-Tree-Birch-JP",
+                            "value": 0
+                        },
+                        {
+                            "name": "White Birch Pollen",
+                            "subtype": "n-a",
+                            "code_name": "pollen-Tree-BirchWhite-EU",
+                            "value": 0
+                        },
+                        {
+                            "name": "Japanese Cedar Pollen",
+                            "subtype": "n-a",
+                            "code_name": "pollen-Tree-Cedar-JP",
+                            "value": 0
+                        },
+                        {
+                            "name": "Italian Cypress Pollen",
+                            "subtype": "n-a",
+                            "code_name": "pollen-Tree-Cypress-IT",
+                            "value": 0
+                        },
+                        {
+                            "name": "Japanese Cypress Pollen",
+                            "subtype": "n-a",
+                            "code_name": "pollen-Tree-Cypress-JP",
+                            "value": 0
+                        },
+                        {
+                            "name": "English Elm Pollen",
+                            "subtype": "n-a",
+                            "code_name": "pollen-Tree-Elm-EN",
+                            "value": 0
+                        },
+                        {
+                            "name": "Japanese Hop Pollen",
+                            "subtype": "n-a",
+                            "code_name": "pollen-Weed-Hop-JP",
+                            "value": 0
+                        },
+                        {
+                            "name": "Mugwort Pollen",
+                            "subtype": "n-a",
+                            "code_name": "pollen-Weed-Mugwort",
+                            "value": 0
+                        },
+                        {
+                            "name": "Japanese Mugwort Pollen",
+                            "subtype": "n-a",
+                            "code_name": "pollen-Weed-Mugwort-JP",
+                            "value": 131
+                        },
+                        {
+                            "name": "Ragweed Pollen",
+                            "subtype": "n-a",
+                            "code_name": "pollen-Weed-Ragweed",
+                            "value": 0
+                        }
+                    ],
+                    "value": 142
+                }
+            },
+            "levels": {
+                "pollen": {
+                    "level": 8,
+                    "description": "High"
+                },
+                "mites": {
+                    "level": 1,
+                    "description": "Low"
+                },
+                "dander": {
+                    "level": 1,
+                    "description": "Low"
+                },
+                "mold": {
+                    "level": 2,
+                    "description": "Low"
+                },
+                "allergen": {
+                    "level": 8,
+                    "description": "High"
+                }
+            },
+            "sizes": {
+                "0_5": 18,
+                "5_10": 32,
+                "10_25": 191,
+                "25_50": 118,
+                "50_100": 45,
+                "100_200": 6,
+                "200_400": 0,
+                "400_500": 0,
+                "500_inf": 0
+            },
+            "optical_interference": 0.01870039,
+            "date_time": "2025-03-19 01:13:17"
+        }
+    },
+    "grid_920_940_400_420": {
+        "sensor_timestamp": "2025-03-19 01:18:19",
+        "data": {
+            "version": "ML003.320",
+            "values": {
+                "unknown": {
+                    "name": "Unknown particle",
+                    "subtype": "n-a",
+                    "code_name": "unknown",
+                    "subclasses": [],
+                    "value": 54
+                },
+                "mold": {
+                    "name": "Common Mold",
+                    "subtype": "n-a",
+                    "code_name": "mold",
+                    "subclasses": [
+                        {
+                            "name": "Unknown mold",
+                            "subtype": "n-a",
+                            "code_name": "mold-unknown",
+                            "value": 8
+                        },
+                        {
+                            "name": "Aspergillus Niger",
+                            "subtype": "n-a",
+                            "code_name": "mold-Aspergillus-Niger",
+                            "value": 17
+                        },
+                        {
+                            "name": "Aspergillus Fumigatus",
+                            "subtype": "n-a",
+                            "code_name": "mold-Aspergillus-Fumigatus",
+                            "value": 0
+                        },
+                        {
+                            "name": "Alternaria Alternata",
+                            "subtype": "n-a",
+                            "code_name": "mold-Alternaria",
+                            "value": 1
+                        },
+                        {
+                            "name": "Penicillium Notatum",
+                            "subtype": "n-a",
+                            "code_name": "mold-Penicillium",
+                            "value": 5
+                        },
+                        {
+                            "name": "Cladosporium Herbarum",
+                            "subtype": "n-a",
+                            "code_name": "mold-Cladosporium",
+                            "value": 1
+                        }
+                    ],
+                    "value": 32
+                },
+                "mites": {
+                    "name": "Dust Mites",
+                    "subtype": "n-a",
+                    "code_name": "mites",
+                    "subclasses": [],
+                    "value": 6
+                },
+                "other": {
+                    "name": "Other",
+                    "subtype": "n-a",
+                    "code_name": "other",
+                    "subclasses": [],
+                    "value": 169
+                },
+                "dander": {
+                    "name": "Animal Dander",
+                    "subtype": "n-a",
+                    "code_name": "dander",
+                    "subclasses": [],
+                    "value": 0
+                },
+                "pollen": {
+                    "name": "Common Pollen",
+                    "subtype": "n-a",
+                    "code_name": "pollen",
+                    "subclasses": [
+                        {
+                            "name": "Unknown pollen",
+                            "subtype": "n-a",
+                            "code_name": "pollen-unknown",
+                            "value": 0
+                        },
+                        {
+                            "name": "Japanese Rice Pollen",
+                            "subtype": "n-a",
+                            "code_name": "pollen-Grass-Rice-JP",
+                            "value": 15
+                        },
+                        {
+                            "name": "Rye Pollen",
+                            "subtype": "n-a",
+                            "code_name": "pollen-Grass-Rye",
+                            "value": 0
+                        },
+                        {
+                            "name": "White Ash Pollen",
+                            "subtype": "n-a",
+                            "code_name": "pollen-Tree-AshWhite-AM",
+                            "value": 0
+                        },
+                        {
+                            "name": "Aspen Pollen",
+                            "subtype": "n-a",
+                            "code_name": "pollen-Tree-Aspen",
+                            "value": 0
+                        },
+                        {
+                            "name": "Japanese Birch Pollen",
+                            "subtype": "n-a",
+                            "code_name": "pollen-Tree-Birch-JP",
+                            "value": 0
+                        },
+                        {
+                            "name": "White Birch Pollen",
+                            "subtype": "n-a",
+                            "code_name": "pollen-Tree-BirchWhite-EU",
+                            "value": 0
+                        },
+                        {
+                            "name": "Japanese Cedar Pollen",
+                            "subtype": "n-a",
+                            "code_name": "pollen-Tree-Cedar-JP",
+                            "value": 0
+                        },
+                        {
+                            "name": "Italian Cypress Pollen",
+                            "subtype": "n-a",
+                            "code_name": "pollen-Tree-Cypress-IT",
+                            "value": 0
+                        },
+                        {
+                            "name": "Japanese Cypress Pollen",
+                            "subtype": "n-a",
+                            "code_name": "pollen-Tree-Cypress-JP",
+                            "value": 0
+                        },
+                        {
+                            "name": "English Elm Pollen",
+                            "subtype": "n-a",
+                            "code_name": "pollen-Tree-Elm-EN",
+                            "value": 0
+                        },
+                        {
+                            "name": "Japanese Hop Pollen",
+                            "subtype": "n-a",
+                            "code_name": "pollen-Weed-Hop-JP",
+                            "value": 0
+                        },
+                        {
+                            "name": "Mugwort Pollen",
+                            "subtype": "n-a",
+                            "code_name": "pollen-Weed-Mugwort",
+                            "value": 0
+                        },
+                        {
+                            "name": "Japanese Mugwort Pollen",
+                            "subtype": "n-a",
+                            "code_name": "pollen-Weed-Mugwort-JP",
+                            "value": 131
+                        },
+                        {
+                            "name": "Ragweed Pollen",
+                            "subtype": "n-a",
+                            "code_name": "pollen-Weed-Ragweed",
+                            "value": 0
+                        }
+                    ],
+                    "value": 146
+                }
+            },
+            "levels": {
+                "pollen": {
+                    "level": 8,
+                    "description": "High"
+                },
+                "mites": {
+                    "level": 1,
+                    "description": "Low"
+                },
+                "dander": {
+                    "level": 1,
+                    "description": "Low"
+                },
+                "mold": {
+                    "level": 2,
+                    "description": "Low"
+                },
+                "allergen": {
+                    "level": 8,
+                    "description": "High"
+                }
+            },
+            "sizes": {
+                "0_5": 13,
+                "5_10": 28,
+                "10_25": 204,
+                "25_50": 114,
+                "50_100": 42,
+                "100_200": 6,
+                "200_400": 0,
+                "400_500": 0,
+                "500_inf": 0
+            },
+            "optical_interference": 0.01711991,
+            "date_time": "2025-03-19 01:18:19"
+        }
+    }
+}

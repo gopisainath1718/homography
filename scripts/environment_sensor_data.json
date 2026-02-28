@@ -1,0 +1,308 @@
+{
+    "grid_1380_1400_60_80": {
+        "sensor_timestamp": "2025-03-19 00:44:08",
+        "data": {
+            "date_time": "2025-03-19 00:44:08",
+            "values": {
+                "voc": 151.0,
+                "co2": 629.0,
+                "humidity": 16.69,
+                "temperature": 23.369999999999997
+            },
+            "levels": {
+                "voc": {
+                    "level": 2,
+                    "description": "Low"
+                },
+                "co2": {
+                    "level": 3,
+                    "description": "Low"
+                },
+                "temperature": {
+                    "level": 8,
+                    "description": "Bad"
+                },
+                "humidity": {
+                    "level": 10,
+                    "description": "Very Bad"
+                },
+                "pollution": {
+                    "level": 3,
+                    "description": "Low"
+                }
+            }
+        }
+    },
+    "grid_240_260_80_100": {
+        "sensor_timestamp": "2025-03-19 00:45:04",
+        "data": {
+            "date_time": "2025-03-19 00:45:04",
+            "values": {
+                "voc": 142.0,
+                "co2": 615.0,
+                "humidity": 16.72,
+                "temperature": 23.33
+            },
+            "levels": {
+                "voc": {
+                    "level": 2,
+                    "description": "Low"
+                },
+                "co2": {
+                    "level": 3,
+                    "description": "Low"
+                },
+                "temperature": {
+                    "level": 8,
+                    "description": "Bad"
+                },
+                "humidity": {
+                    "level": 10,
+                    "description": "Very Bad"
+                },
+                "pollution": {
+                    "level": 3,
+                    "description": "Low"
+                }
+            }
+        }
+    },
+    "grid_1000_1020_420_440": {
+        "sensor_timestamp": "2025-03-19 00:46:27",
+        "data": {
+            "date_time": "2025-03-19 00:46:27",
+            "values": {
+                "voc": 143.0,
+                "co2": 617.0,
+                "humidity": 16.72,
+                "temperature": 23.340000000000003
+            },
+            "levels": {
+                "voc": {
+                    "level": 2,
+                    "description": "Low"
+                },
+                "co2": {
+                    "level": 3,
+                    "description": "Low"
+                },
+                "temperature": {
+                    "level": 8,
+                    "description": "Bad"
+                },
+                "humidity": {
+                    "level": 10,
+                    "description": "Very Bad"
+                },
+                "pollution": {
+                    "level": 3,
+                    "description": "Low"
+                }
+            }
+        }
+    },
+    "grid_520_540_320_340": {
+        "sensor_timestamp": "2025-03-19 00:47:04",
+        "data": {
+            "date_time": "2025-03-19 00:47:04",
+            "values": {
+                "voc": 122.0,
+                "co2": 585.0,
+                "humidity": 16.74,
+                "temperature": 23.35
+            },
+            "levels": {
+                "voc": {
+                    "level": 2,
+                    "description": "Low"
+                },
+                "co2": {
+                    "level": 2,
+                    "description": "Low"
+                },
+                "temperature": {
+                    "level": 8,
+                    "description": "Bad"
+                },
+                "humidity": {
+                    "level": 10,
+                    "description": "Very Bad"
+                },
+                "pollution": {
+                    "level": 2,
+                    "description": "Low"
+                }
+            }
+        }
+    },
+    "grid_240_260_0_20": {
+        "sensor_timestamp": "2025-03-19 00:50:04",
+        "data": {
+            "date_time": "2025-03-19 00:50:04",
+            "values": {
+                "voc": 117.0,
+                "co2": 577.0,
+                "humidity": 16.76,
+                "temperature": 23.450000000000003
+            },
+            "levels": {
+                "voc": {
+                    "level": 2,
+                    "description": "Low"
+                },
+                "co2": {
+                    "level": 2,
+                    "description": "Low"
+                },
+                "temperature": {
+                    "level": 8,
+                    "description": "Bad"
+                },
+                "humidity": {
+                    "level": 10,
+                    "description": "Very Bad"
+                },
+                "pollution": {
+                    "level": 2,
+                    "description": "Low"
+                }
+            }
+        }
+    },
+    "grid_180_200_180_200": {
+        "sensor_timestamp": "2025-03-19 00:51:04",
+        "data": {
+            "date_time": "2025-03-19 00:51:04",
+            "values": {
+                "voc": 114.0,
+                "co2": 572.0,
+                "humidity": 16.83,
+                "temperature": 23.409999999999997
+            },
+            "levels": {
+                "voc": {
+                    "level": 2,
+                    "description": "Low"
+                },
+                "co2": {
+                    "level": 2,
+                    "description": "Low"
+                },
+                "temperature": {
+                    "level": 8,
+                    "description": "Bad"
+                },
+                "humidity": {
+                    "level": 10,
+                    "description": "Very Bad"
+                },
+                "pollution": {
+                    "level": 2,
+                    "description": "Low"
+                }
+            }
+        }
+    },
+    "grid_1260_1280_280_300": {
+        "sensor_timestamp": "2025-03-19 00:52:04",
+        "data": {
+            "date_time": "2025-03-19 00:52:04",
+            "values": {
+                "voc": 117.0,
+                "co2": 577.0,
+                "humidity": 16.77,
+                "temperature": 23.43
+            },
+            "levels": {
+                "voc": {
+                    "level": 2,
+                    "description": "Low"
+                },
+                "co2": {
+                    "level": 2,
+                    "description": "Low"
+                },
+                "temperature": {
+                    "level": 8,
+                    "description": "Bad"
+                },
+                "humidity": {
+                    "level": 10,
+                    "description": "Very Bad"
+                },
+                "pollution": {
+                    "level": 2,
+                    "description": "Low"
+                }
+            }
+        }
+    },
+    "grid_1720_1740_160_180": {
+        "sensor_timestamp": "2025-03-19 00:54:07",
+        "data": {
+            "date_time": "2025-03-19 00:54:07",
+            "values": {
+                "voc": 115.0,
+                "co2": 574.0,
+                "humidity": 16.62,
+                "temperature": 23.479999999999997
+            },
+            "levels": {
+                "voc": {
+                    "level": 2,
+                    "description": "Low"
+                },
+                "co2": {
+                    "level": 2,
+                    "description": "Low"
+                },
+                "temperature": {
+                    "level": 8,
+                    "description": "Bad"
+                },
+                "humidity": {
+                    "level": 10,
+                    "description": "Very Bad"
+                },
+                "pollution": {
+                    "level": 2,
+                    "description": "Low"
+                }
+            }
+        }
+    },
+    "grid_1080_1100_420_440": {
+        "sensor_timestamp": "2025-03-19 00:55:04",
+        "data": {
+            "date_time": "2025-03-19 00:55:04",
+            "values": {
+                "voc": 111.0,
+                "co2": 567.0,
+                "humidity": 16.68,
+                "temperature": 23.380000000000003
+            },
+            "levels": {
+                "voc": {
+                    "level": 2,
+                    "description": "Low"
+                },
+                "co2": {
+                    "level": 2,
+                    "description": "Low"
+                },
+                "temperature": {
+                    "level": 8,
+                    "description": "Bad"
+                },
+                "humidity": {
+                    "level": 10,
+                    "description": "Very Bad"
+                },
+                "pollution": {
+                    "level": 2,
+                    "description": "Low"
+                }
+            }
+        }
+    }
+}
